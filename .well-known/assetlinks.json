@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.prokil.app",
+      "sha256_cert_fingerprints":
+        ["EA:16:C4:00:DC:04:2B:6F:9D:44:80:1B:CC:47:DA:58:DE:22:FB:75:AF:F2:5D:AD:A2:50:93:D9:88:B8:53:70"]
+    }
+  }
+]
